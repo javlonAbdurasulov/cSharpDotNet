@@ -9,7 +9,7 @@
       'Products': [
         {
           'Name': 'Anvil',
-          'Price': 5
+          'Price': 6
         }
       ]
     },
