@@ -1,6 +1,6 @@
 {
   'Stores': [
-    'Lambton Quay',
+    'Shokir Bot',
     'Willis Street'
   ],
   'Manufacturers': [
